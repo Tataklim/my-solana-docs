@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5421],{8961:s=>{s.exports=JSON.parse('{"label":"lido","permalink":"/my-solana-docs2/blog/tags/lido","allTagsPath":"/my-solana-docs2/blog/tags","count":1}')}}]);
