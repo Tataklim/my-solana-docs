@@ -6,14 +6,14 @@ sidebar_position: 3
 
 ---
 
-All known errors we wrap adding some additional fields to make it easier controlling exceptions.
+All known errors we wrap adding some extra fields to make it easier controlling exceptions.
 Additional fields to *`Error`* object:
 - *`code: number`* - error code
-- *`codeDesc: string`* - additional error code definition
+- *`codeDesc: string`* - error code definition
 
 This table lists the error code information returned by the SolidoSDK when it is called.
 
-| Error code | Error definition           | Description                                                                          |
+| Error code | Error code definition      | Description                                                                          |
 |:-----------|:---------------------------|:-------------------------------------------------------------------------------------|
 | 100        | CANNOT_CONFIRM_TRANSACTION | Got error during transaction confirmation                                            |
 | 200        | NO_VALIDATORS              | Couldn't fetch validators list                                                       |
